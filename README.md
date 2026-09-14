@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=680&lines=Final+year+BSc+(Hons)+Computing+with+AI;I+build+LLM+systems+from+the+raw+fundamentals;Agents+%E2%80%A2+Retrieval+%E2%80%A2+Structured+Outputs+%E2%80%A2+Security;I+turn+plain+English+into+working+software" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=580&lines=Final+year+BSc+(Hons)+Computing+with+AI;I+build+LLM+apps+with+modern+frameworks;Agents+%E2%80%A2+RAG+%E2%80%A2+Structured+Outputs;Turning+plain+English+into+software" alt="typing" />
 </div>
 
 <!-- ===================== QUICK LINKS (BUTTONS) ===================== -->
@@ -47,17 +47,18 @@ class SuyogSubedi:
         self.education = "BSc (Hons) Computing with AI"
         self.school    = "Islington College (London Met)"
         self.location  = "Kathmandu, Nepal"
-        self.focus     = ["LLM agents", "RAG", "LLM security"]
-        self.mindset   = "Understand it raw, then reach for the framework"
+        self.stack     = ["LangChain", "FastAPI", "PyTorch"]
+        self.mindset   = "Frameworks to ship, internals to understand"
 
     def current_goal(self):
         return "Ship real AI systems, graduate first-class"
 ```
 
 - Final year student graduating in **2027**, aiming for **first-class honours**
-- Building LLM systems **raw first (no vendor SDKs)**, then rebuilding with **LangChain**
+- I build LLM apps with **LangChain, FastAPI, and modern AI tooling**
+- During my **first internship month** I built LLM systems **raw with no SDKs**, on purpose, to understand what frameworks abstract away
 - Former **Data Analyst** at Impact Associates
-- Deep in **agents, retrieval, structured outputs, and prompt-injection defense**
+- Into **agents, retrieval (RAG), structured outputs, and LLM security**
 
 <br clear="right"/>
 
@@ -65,9 +66,9 @@ class SuyogSubedi:
   <summary><b>🧠 A bit more about how I work (click to expand)</b></summary>
   <br/>
 
-  I learn by rebuilding things from scratch before I trust an abstraction. During my internship I wrote a raw HTTP LLM client with no SDK, a token-bucket rate limiter around it, and a model router that picks a model by cost and complexity, all before touching a framework. Once I understood the moving parts, the framework versions made sense instead of feeling like magic.
+  I build with frameworks day to day, because they let me ship fast. But I do not like treating tools as magic. So in my first internship month I deliberately went the other way and rebuilt the pieces from scratch, a raw HTTP LLM client with no SDK, a token-bucket rate limiter, and a model router that picks a model by cost and complexity. That one month taught me what LangChain and FastAPI are actually doing underneath, and after it I moved on to building properly with frameworks.
 
-  I care a lot about the unglamorous parts: schema validation, retries, logging, security, and clean data pipelines. Those are what separate a demo from something you can actually run.
+  I care most about the unglamorous parts: schema validation, retries, logging, security, and clean data. Those are what turn a demo into something you can run.
 
 </details>
 
@@ -78,23 +79,34 @@ class SuyogSubedi:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" alt="languages" />
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="python" /></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="java" /></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="c" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" alt="html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" alt="css" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" alt="js" /></a>
 
 **AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ai" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48" alt="pytorch" /></a>
+<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="tensorflow" /></a>
+<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="sklearn" /></a>
+<a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" /></a>
+<a href="https://spacy.io"><img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spacy" /></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" /></a>
 
 **Backend, Tools & Infra**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,git,github,linux,vscode&theme=dark" alt="tools" />
-&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="fastapi" /></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48" alt="flask" /></a>
+<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="48" alt="sqlite" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="git" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="github" /></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" alt="linux" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="vscode" /></a>
+<a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" /></a>
+<a href="https://docs.pydantic.dev"><img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="pydantic" /></a>
 
 </div>
 
@@ -175,14 +187,11 @@ Pandas pipeline for dedup, type coercion, and IQR outlier handling, loaded into 
   <summary><b>🗺️ My AI Engineering journey (click to expand)</b></summary>
   <br/>
 
-  A raw-then-frameworks path I'm working through during my internship:
+  I started my internship by building things raw to learn the internals, then moved to frameworks:
 
-  - **Foundations** → token counter, sampling lab (temperature / top-p), batch inference runner, cost & context-budget calculator
-  - **Raw systems** → HTTP LLM client with no SDK, token-bucket rate limiter, cost/complexity model router, local vs API benchmark
-  - **Structured outputs** → typed calls with pydantic validation and retries, structured logging
-  - **LLM security + data engineering** → PII scrubbing, prompt-injection prevention, pandas cleaning pipelines into SQLite
-  - **Capstone** → QueryLedger, a raw natural language to SQL agent
-  - **Next up** → rebuilding it all properly with LangChain
+  - **Month 1, raw foundations (no SDKs):** HTTP LLM client, token-bucket rate limiter, cost/complexity model router, typed outputs with pydantic, PII scrubbing, prompt-injection prevention, pandas pipelines into SQLite, and a capstone natural language to SQL agent
+  - **After Month 1, frameworks:** building properly with LangChain, plus retrieval (RAG) and agents
+  - **Alongside:** coursework and personal projects in Python, Java, and data analysis
 
 </details>
 
