@@ -81,7 +81,6 @@ class SuyogSubedi:
 
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" alt="python" /></a>
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="java" /></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="c" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" alt="html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" alt="css" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" alt="js" /></a>
